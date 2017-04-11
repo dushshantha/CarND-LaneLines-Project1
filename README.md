@@ -1,16 +1,10 @@
-#**Finding Lane Lines on the Road** 
+# **Finding Lane Lines on the Road** 
 
-<<<<<<< Updated upstream
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 =======
-##Writeup Template
+ 
 
-###You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
->>>>>>> Stashed changes
-
----
-
-**Finding Lane Lines on the Road**
+** Finding Lane Lines on the Road**
 
 The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
@@ -29,18 +23,6 @@ The goals / steps of this project are the following:
 
 [white]: ./white.mp4 "final"
 ---
-<<<<<<< Updated upstream
-For this project, a great writeup should provide a detailed response to the "Reflection" section of the [project rubric](https://review.udacity.com/#!/rubrics/322/view). There are three parts to the reflection:
-
-1. Describe the pipeline
-
-2. Identify any shortcomings
-
-3. Suggest possible improvements
-
-We encourage using images in your writeup to demonstrate how your pipeline works.  
-=======
->>>>>>> Stashed changes
 
 ### Reflection
 
